@@ -23,3 +23,13 @@ Python, Pandas, NumPy, Matplotlib, and Google Colab
 
 # Limitations
 This project uses synthetic data. The Waste Risk Score is a rule-based prioritization method, not a definitive measure of wasted spend. Flagged queries require manual review before making any optimization decisions. 
+
+# Workflow
+- Data loading > cells 1 - 3
+- Data exploration and validation > cells 4 - 13
+- Data cleaning and metric calculation > cells 14 - 23
+- Account performance benchmarks > cells 24 - 26
+- Exploratory performance analysis > cells 27 - 38
+- Waste detection and risk scoring > cells 39 - 46
+- Reporting and visualization > cells 47 - 49
+- Final validation > cell 50
